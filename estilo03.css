@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(63, 155, 120);
+    font: normal 18pt Arial;
+    background-image: url('number.jpg');
+    
+
+}
+header {
+color: rgba(0, 0, 0, 0.76);
+text-align:  center;
+font-family: 'Faster One', cursive;
+
+}
+section {
+    background:rgb(107, 211, 230);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.568);
+    font-family: 'Teko', sans-serif;
+
+}
+Footer {
+    text-align:  center;
+    color: rgb(48, 47, 47);
+    font-style: italic;
+
+}
